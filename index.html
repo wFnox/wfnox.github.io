@@ -9,6 +9,13 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
   <script src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js"></script>
+  <script>
+    // Apply saved theme before first paint to prevent flash
+    (function () {
+      const t = localStorage.getItem('theme');
+      if (t === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+    })();
+  </script>
 </head>
 <body>
 
@@ -16,6 +23,14 @@
     <div class="header-inner">
       <span class="logo" onclick="navigate('')">LernWeb</span>
       <nav id="breadcrumb"></nav>
+      <div class="search-wrap" id="search-wrap">
+        <input type="search" id="search-input" class="search-input"
+          placeholder="Suchen…" autocomplete="off"
+          aria-label="Inhalte suchen" aria-haspopup="listbox"
+          aria-expanded="false" role="combobox" />
+        <ul class="search-results" id="search-results" role="listbox" aria-label="Suchergebnisse"></ul>
+      </div>
+      <button id="theme-toggle" class="theme-btn" aria-label="Farbschema wechseln" onclick="toggleTheme()"></button>
     </div>
   </header>
 
