@@ -16,7 +16,7 @@
             {
               "titel": "Potenezn",
               "typ": "md",
-              "datei": "content/math/Potenzen_Wurzeln_Polynome.md"
+              "datei": "Content/math/Potenzen_Wurzeln_Polynome.md"
             }
           ]
         }
@@ -125,7 +125,7 @@
             {
               "titel": "Islam",
               "typ": "md",
-              "datei": "content/religion/IslamZusammenfassung.md"
+              "datei": "Content/religion/IslamZusammenfassung.md"
             }
           ]
         }
