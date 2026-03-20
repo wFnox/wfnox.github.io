@@ -235,7 +235,21 @@
       "icon": "💻",
       "farbe": "#34495e",
       "beschreibung": "Algorithmen, Daten und Systeme",
-      "themen": []
+      "themen": [
+        {
+          "id": "htmlUndCss",
+          "name": "Html und Css",
+          "beschreibung": "The art of Html und Css",
+          "zusammenfassungen": [
+            {
+              "titel": "Html und Css",
+              "typ": "md",
+              "datei": "Content/informatik/HTML_CSS_Lernheft.md",
+              "lastModified": "2026-03-20"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "sport",
