@@ -7,19 +7,6 @@
 
 ---
 
-## Inhaltsverzeichnis
-
-1. [Was ist eine chemische Reaktion?](#1-was-ist-eine-chemische-reaktion)
-2. [Reaktionsgleichung und Massenverhältnisse](#2-reaktionsgleichung-und-massenverhältnisse)
-3. [Das limitierende Reagenz](#3-das-limitierende-reagenz)
-4. [Energieformen und Energieumwandlungen](#4-energieformen-und-energieumwandlungen)
-5. [Exotherme und endotherme Reaktionen](#5-exotherme-und-endotherme-reaktionen)
-6. [Aktivierungsenergie](#6-aktivierungsenergie)
-7. [Umkehrbare Reaktionen](#7-umkehrbare-reaktionen)
-8. [Analyse und Synthese](#8-analyse-und-synthese)
-
----
-
 ## 1. Was ist eine chemische Reaktion?
 
 ### Verstehen

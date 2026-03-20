@@ -86,6 +86,14 @@ function getThema(fach, id) {
   return fach?.themen.find(t => t.id === id);
 }
 
+/* ── "Neu"-Badge: Datei innerhalb von 14 Tagen? ── */
+function isRecentFile(dateStr) {
+  if (!dateStr) return false;
+  const modified = new Date(dateStr);
+  const diffMs = Date.now() - modified.getTime();
+  return diffMs >= 0 && diffMs <= 14 * 24 * 60 * 60 * 1000;
+}
+
 /* ══════════════════════════════════════════════════
    VIEW 1 – Startseite: alle Fächer
 ══════════════════════════════════════════════════ */
@@ -175,9 +183,13 @@ function renderThema(app, fachId, themaId) {
     const item = document.createElement('div');
     item.className = 'summary-item';
     item.style.setProperty('--farbe', fach.farbe);
+    const neuBadge = isRecentFile(zf.lastModified)
+      ? '<span class="neu-badge">Neu</span>'
+      : '';
     item.innerHTML = `
       <span class="summary-type-badge">${zf.typ.toUpperCase()}</span>
       <span class="summary-title">${zf.titel}</span>
+      ${neuBadge}
     `;
     item.addEventListener('click', () => navigate(`inhalt/${fach.id}/${thema.id}/${i}`));
     list.appendChild(item);
@@ -213,11 +225,15 @@ async function renderInhalt(app, fachId, themaId, index) {
     <div class="content-toolbar">
       <button class="btn btn-ghost" onclick="navigate('thema/${fach.id}/${thema.id}')">← Zurück</button>
       <span style="font-weight:700;font-size:1rem;">${zf.titel}</span>
+      <button class="btn btn-ghost notiz-btn" id="notiz-add-btn" style="margin-left:auto;font-size:.82rem;">📝 Notiz hinzufügen</button>
     </div>
+    <div id="notiz-section"></div>
     <div id="content-body"></div>
   `;
   layout.appendChild(wrapper);
   app.appendChild(layout);
+
+  initNotizen(`inhalt/${fachId}/${themaId}/${index}`);
 
   const body = document.getElementById('content-body');
 
@@ -229,6 +245,9 @@ async function renderInhalt(app, fachId, themaId, index) {
       const div = document.createElement('div');
       div.className = 'md-body';
       div.innerHTML = marked.parse(text);
+
+      // Syntax highlighting
+      div.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
 
       renderMathInElement(div, {
         delimiters: [
@@ -252,6 +271,92 @@ async function renderInhalt(app, fachId, themaId, index) {
   } else {
     body.innerHTML = `<div class="error-box">Unbekannter Dateityp: <strong>${zf.typ}</strong></div>`;
   }
+}
+
+/* ── Notizen-Modus ────────────────────────────────── */
+function initNotizen(noteKey) {
+  const section = document.getElementById('notiz-section');
+  const addBtn  = document.getElementById('notiz-add-btn');
+  if (!section || !addBtn) return;
+
+  const storageKey = `notiz-${noteKey}`;
+
+  function getNote() { return localStorage.getItem(storageKey) || ''; }
+  function saveNote(text) {
+    if (text.trim()) localStorage.setItem(storageKey, text);
+    else localStorage.removeItem(storageKey);
+  }
+
+  function renderNote() {
+    const note = getNote();
+    section.innerHTML = '';
+
+    if (note) {
+      const box = document.createElement('div');
+      box.className = 'notiz-box';
+
+      const header = document.createElement('div');
+      header.className = 'notiz-header';
+      header.innerHTML = `
+        <span class="notiz-label">📝 Meine Notiz</span>
+        <div class="notiz-actions">
+          <button class="btn btn-ghost notiz-btn" id="notiz-edit-btn">Bearbeiten</button>
+          <button class="btn btn-ghost notiz-btn" id="notiz-delete-btn">Löschen</button>
+        </div>
+      `;
+
+      const textDiv = document.createElement('div');
+      textDiv.className = 'notiz-text';
+      textDiv.textContent = note;
+
+      box.appendChild(header);
+      box.appendChild(textDiv);
+      section.appendChild(box);
+
+      document.getElementById('notiz-edit-btn').addEventListener('click', () => showEditor(note));
+      document.getElementById('notiz-delete-btn').addEventListener('click', () => {
+        saveNote('');
+        renderNote();
+      });
+      addBtn.style.display = 'none';
+    } else {
+      addBtn.style.display = '';
+    }
+  }
+
+  function showEditor(existingText = '') {
+    section.innerHTML = '';
+    addBtn.style.display = 'none';
+
+    const editor = document.createElement('div');
+    editor.className = 'notiz-editor';
+
+    const textarea = document.createElement('textarea');
+    textarea.className = 'notiz-textarea';
+    textarea.placeholder = 'Notiz eingeben…';
+    textarea.value = existingText;
+
+    const actions = document.createElement('div');
+    actions.className = 'notiz-editor-actions';
+    actions.innerHTML = `
+      <button class="btn btn-primary" id="notiz-save-btn">Speichern</button>
+      <button class="btn btn-ghost" id="notiz-cancel-btn">Abbrechen</button>
+    `;
+
+    editor.appendChild(textarea);
+    editor.appendChild(actions);
+    section.appendChild(editor);
+    textarea.focus();
+
+    document.getElementById('notiz-save-btn').addEventListener('click', () => {
+      saveNote(textarea.value);
+      renderNote();
+    });
+    document.getElementById('notiz-cancel-btn').addEventListener('click', renderNote);
+  }
+
+  addBtn.addEventListener('click', () => showEditor());
+  renderNote();
 }
 
 /* ── Floating Table of Contents ───────────────────── */

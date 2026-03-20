@@ -6,22 +6,6 @@
 
 ---
 
-## Inhaltsverzeichnis
-
-1. [Potenzen mit ganzen Exponenten](#1-potenzen-mit-ganzen-exponenten)
-2. [Potenzgesetze](#2-potenzgesetze)
-3. [Wissenschaftliche Notation](#3-wissenschaftliche-notation)
-4. [Wurzeln](#4-wurzeln)
-5. [Wurzelgesetze](#5-wurzelgesetze)
-6. [Wurzeln als Potenzen (Bruchexponenten)](#6-wurzeln-als-potenzen-bruchexponenten)
-7. [Monome und Polynome](#7-monome-und-polynome)
-8. [Polynomoperationen](#8-polynomoperationen)
-9. [Binomische Formeln und Pascalsches Dreieck](#9-binomische-formeln-und-pascalsches-dreieck)
-10. [Faktorisierung](#10-faktorisierung)
-11. [Rationale Brüche](#11-rationale-brüche)
-
----
-
 ## 1. Potenzen mit ganzen Exponenten
 
 ### Verstehen

@@ -6,24 +6,6 @@
 
 ---
 
-## Inhaltsverzeichnis
-
-1. [Geschichte & Zeitrechnung](#1-geschichte--zeitrechnung)
-2. [Leben Mohammeds](#2-leben-mohammeds)
-3. [Mohammed und die Frauen](#3-mohammed-und-die-frauen)
-4. [Der Koran](#4-der-koran)
-5. [Hadith & Sunna](#5-hadith--sunna)
-6. [AQUA-Methode](#6-aqua-methode)
-7. [Die 5 Säulen des Islams](#7-die-5-säulen-des-islams)
-8. [Halal & Haram](#8-halal--haram)
-9. [Frauen im Islam](#9-frauen-im-islam)
-10. [Die vier Kalifen & Sunniten/Schiiten](#10-die-vier-kalifen--sunnitenschiiten)
-11. [Heilige Stätten des Islams](#11-heilige-stätten-des-islams)
-12. [Feste & Rituale im Lebenszyklus](#12-feste--rituale-im-lebenszyklus)
-13. [Islam in der Schweiz](#13-islam-in-der-schweiz)
-
----
-
 ## 1. Geschichte & Zeitrechnung
 
 ### 🧠 Verstehen

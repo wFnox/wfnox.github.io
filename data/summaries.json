@@ -16,7 +16,8 @@
             {
               "titel": "Potenzen",
               "typ": "md",
-              "datei": "Content/math/Potenzen_Wurzeln_Polynome.md"
+              "datei": "Content/math/Potenzen_Wurzeln_Polynome.md",
+              "lastModified": "2026-03-20"
             }
           ]
         }
@@ -53,102 +54,122 @@
             {
               "titel": "Indicatif Présent",
               "typ": "md",
-              "datei": "Content/franz/01_Indicatif_Present.md"
+              "datei": "Content/franz/01_Indicatif_Present.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Indicatif Imparfait",
               "typ": "md",
-              "datei": "Content/franz/02_Indicatif_Imparfait.md"
+              "datei": "Content/franz/02_Indicatif_Imparfait.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Indicatif Passé composé",
               "typ": "md",
-              "datei": "Content/franz/03_Indicatif_Passe_compose.md"
+              "datei": "Content/franz/03_Indicatif_Passe_compose.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Indicatif Futur antérieur",
               "typ": "md",
-              "datei": "Content/franz/04_Indicatif_Futur_anterieur.md"
+              "datei": "Content/franz/04_Indicatif_Futur_anterieur.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Indicatif Passé simple",
               "typ": "md",
-              "datei": "Content/franz/05_Indicatif_Passe_simple.md"
+              "datei": "Content/franz/05_Indicatif_Passe_simple.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Indicatif Plus-que-parfait",
               "typ": "md",
-              "datei": "Content/franz/06_Indicatif_Plus_que_parfait.md"
+              "datei": "Content/franz/06_Indicatif_Plus_que_parfait.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Indicatif Futur simple",
               "typ": "md",
-              "datei": "Content/franz/07_Indicatif_Futur_simple.md"
+              "datei": "Content/franz/07_Indicatif_Futur_simple.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Indicatif Passé antérieur",
               "typ": "md",
-              "datei": "Content/franz/08_Indicatif_Passe_anterieur.md"
+              "datei": "Content/franz/08_Indicatif_Passe_anterieur.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Subjonctif Présent",
               "typ": "md",
-              "datei": "Content/franz/09_Subjonctif_Present.md"
+              "datei": "Content/franz/09_Subjonctif_Present.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Subjonctif Passé",
               "typ": "md",
-              "datei": "Content/franz/10_Subjonctif_Passe.md"
+              "datei": "Content/franz/10_Subjonctif_Passe.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Conditionnel Présent",
               "typ": "md",
-              "datei": "Content/franz/11_Conditionnel_Present.md"
+              "datei": "Content/franz/11_Conditionnel_Present.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Subjonctif Imparfait",
               "typ": "md",
-              "datei": "Content/franz/12_Subjonctif_Imparfait.md"
+              "datei": "Content/franz/12_Subjonctif_Imparfait.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Subjonctif Plus-que-parfait",
               "typ": "md",
-              "datei": "Content/franz/13_Subjonctif_Plus_que_parfait.md"
+              "datei": "Content/franz/13_Subjonctif_Plus_que_parfait.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Conditionnel Passé",
               "typ": "md",
-              "datei": "Content/franz/14_Conditionnel_Passe.md"
+              "datei": "Content/franz/14_Conditionnel_Passe.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Conditionnel Passé 2ème forme",
               "typ": "md",
-              "datei": "Content/franz/15_Conditionnel_Passe_2eme_forme.md"
+              "datei": "Content/franz/15_Conditionnel_Passe_2eme_forme.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Impératif Présent",
               "typ": "md",
-              "datei": "Content/franz/16_Imperatif_Present.md"
+              "datei": "Content/franz/16_Imperatif_Present.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Impératif Passé",
               "typ": "md",
-              "datei": "Content/franz/17_Imperatif_Passe.md"
+              "datei": "Content/franz/17_Imperatif_Passe.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Infinitif Présent et Passé",
               "typ": "md",
-              "datei": "Content/franz/18_Infinitif_Present_et_Passe.md"
+              "datei": "Content/franz/18_Infinitif_Present_et_Passe.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Participe Présent et Passé",
               "typ": "md",
-              "datei": "Content/franz/19_Participe_Present_et_Passe.md"
+              "datei": "Content/franz/19_Participe_Present_et_Passe.md",
+              "lastModified": "2026-03-20"
             },
             {
               "titel": "Gérondif Présent et Passé",
               "typ": "md",
-              "datei": "Content/franz/20_Gerondif_Present_et_Passe.md"
+              "datei": "Content/franz/20_Gerondif_Present_et_Passe.md",
+              "lastModified": "2026-03-20"
             }
           ]
         }
@@ -193,7 +214,8 @@
             {
               "titel": "Chemische Reaktionen",
               "typ": "md",
-              "datei": "Content/chemie/Chemische_Reaktionen_Lernheft.md"
+              "datei": "Content/chemie/Chemische_Reaktionen_Lernheft.md",
+              "lastModified": "2026-03-20"
             }
           ]
         }
@@ -246,7 +268,8 @@
             {
               "titel": "Islam",
               "typ": "md",
-              "datei": "Content/religion/IslamZusammenfassung.md"
+              "datei": "Content/religion/IslamZusammenfassung.md",
+              "lastModified": "2026-03-20"
             }
           ]
         }
