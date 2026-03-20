@@ -1,4 +1,4 @@
-# 📚 Islam – Lernheft fürs Gymnasium
+# Islam – Lernheft fürs Gymnasium
 
 > **Wie du dieses Heft nutzt:**
 > Jedes Kapitel ist so aufgebaut: Erst kommt die **Erklärung** (lies sie durch), dann die **Kernaussagen** (lern sie), dann eine **Eselsbrücke oder Verbindung** die dir hilft, es zu behalten.
@@ -8,7 +8,7 @@
 
 ## 1. Geschichte & Zeitrechnung
 
-### 🧠 Verstehen
+### Verstehen
 
 Der Islam ist eine **Widerspruchs-Religion** – zumindest klingt sie auf den ersten Blick so:
 
@@ -62,7 +62,7 @@ Der islamische Kalender ist ein **reiner Mondkalender** (12 Monate × ~29,5 Tage
 
 ---
 
-### ⚠️ Wichtige Unterscheidung: Islam vs. Islamismus
+### Wichtige Unterscheidung: Islam vs. Islamismus
 
 Das ist eine der häufigsten Verwechslungen – und prüfungsrelevant:
 
@@ -79,7 +79,7 @@ Das ist eine der häufigsten Verwechslungen – und prüfungsrelevant:
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - Islam = jüngste Weltreligion (historisch), aber älteste Religion (nach eigenem Selbstverständnis)
 - Abrahamitische Religionen: Judentum, Christentum, Islam
@@ -90,7 +90,7 @@ Das ist eine der häufigsten Verwechslungen – und prüfungsrelevant:
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Warum gilt der Islam gleichzeitig als „jüngste" und „älteste" Religion?
 2. Was bedeutet das Wort „Dschahiliya" und wie war die Gesellschaft damals geprägt?
@@ -102,7 +102,7 @@ Das ist eine der häufigsten Verwechslungen – und prüfungsrelevant:
 
 ## 2. Leben Mohammeds
 
-### 🧠 Verstehen
+### Verstehen
 
 Mohammeds Leben ist kein reines Biographie-Thema. Es ist der **Schlüssel zu fast allem** im Islam: Die Feste erinnern an Ereignisse seines Lebens, die Gebetszeiten gehen auf seine Himmelsreise zurück, der Koran ist die Sammlung seiner Offenbarungen, und die Sunniten-Schiiten-Spaltung entstand aus der Frage, wer nach seinem Tod die Führung übernimmt.
 
@@ -145,7 +145,7 @@ Mohammed stirbt ohne designierten Nachfolger. Genau das löst später die Spaltu
 
 ---
 
-### 🔗 Verbindungen zu anderen Themen
+### Verbindungen zu anderen Themen
 
 | Lebensereignis | Verbindung |
 |---------------|-----------|
@@ -158,7 +158,7 @@ Mohammed stirbt ohne designierten Nachfolger. Genau das löst später die Spaltu
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - Mohammed: geb. 570 Mekka, gest. 632 Medina
 - Wichtigste Frau: Chadidscha (erste Muslima, finanzielle & emotionale Stütze)
@@ -168,7 +168,7 @@ Mohammed stirbt ohne designierten Nachfolger. Genau das löst später die Spaltu
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Welche Bedeutung hatte Chadidscha für die Entstehung des Islams?
 2. Warum war Mohammeds Botschaft für die Mekkanische Oberschicht gefährlich?
@@ -179,7 +179,7 @@ Mohammed stirbt ohne designierten Nachfolger. Genau das löst später die Spaltu
 
 ## 3. Mohammed und die Frauen
 
-### 🧠 Verstehen
+### Verstehen
 
 Dass Mohammed mehrere Frauen hatte, wird heute oft als Widerspruch zur islamischen Frauenrolle gesehen. Der Kontext des 7. Jahrhunderts ist aber entscheidend: Polygynie (Vielweiberei) war damals in Arabien verbreitet – Mohammed begrenzte sie auf maximal vier Frauen (und nur wenn man alle gleich behandeln kann). Die meisten seiner Ehen hatten konkrete historische Gründe.
 
@@ -203,7 +203,7 @@ Dass Mohammed mehrere Frauen hatte, wird heute oft als Widerspruch zur islamisch
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - Chadidscha = erste Frau, einzige während langer Zeit, erste Muslima überhaupt
 - Aischa = wichtigste Quelle für Hadithe, bedeutende politische Figur
@@ -212,7 +212,7 @@ Dass Mohammed mehrere Frauen hatte, wird heute oft als Widerspruch zur islamisch
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Welche Rolle spielte Aischa für die Entstehung des islamischen Wissens?
 2. Welche drei Kategorien von Gründen gab es für Mohammeds Ehen?
@@ -222,7 +222,7 @@ Dass Mohammed mehrere Frauen hatte, wird heute oft als Widerspruch zur islamisch
 
 ## 4. Der Koran
 
-### 🧠 Verstehen
+### Verstehen
 
 Der Koran ist nicht einfach das „heilige Buch" des Islams wie die Bibel das heilige Buch des Christentums ist. Er ist etwas grundsätzlich anderes:
 
@@ -295,7 +295,7 @@ Wichtig: Nach Mohammeds Tod hatten viele Gefährten den Koran **auswendig** – 
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - Koran = direkt Wort Gottes (kein Menschenwerk), nur Arabisch ist der echte Koran
 - 114 Suren, 6236 Verse, nach Länge geordnet (nicht chronologisch)
@@ -305,7 +305,7 @@ Wichtig: Nach Mohammeds Tod hatten viele Gefährten den Koran **auswendig** – 
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Was ist der wichtigste Unterschied zwischen dem Koran (islamisch) und der Bibel (christlich)?
 2. Warum stehen die längsten Suren am Anfang des Korans, obwohl sie später entstanden sind?
@@ -316,7 +316,7 @@ Wichtig: Nach Mohammeds Tod hatten viele Gefährten den Koran **auswendig** – 
 
 ## 5. Hadith & Sunna
 
-### 🧠 Verstehen
+### Verstehen
 
 Der Koran ist das Wort Gottes – aber er enthält keine detaillierten Regeln für alle Alltagssituationen. Wie genau betet man? Wie verhält man sich beim Essen? Was ist erlaubt, was verboten? Dafür gibt es die **Sunna**: die Gesamtheit der als vorbildlich geltenden Handlungen und Aussagen Mohammeds.
 
@@ -361,7 +361,7 @@ Die Echtheit eines Hadiths wird **nicht** am Inhalt gemessen, sondern an der **G
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - Hadith = Bericht über Aussage oder Tat Mohammeds
 - Sunna = Gesamtheit aller Hadithe = zweite Rechtsquelle nach dem Koran
@@ -371,7 +371,7 @@ Die Echtheit eines Hadiths wird **nicht** am Inhalt gemessen, sondern an der **G
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Was ist der Unterschied zwischen Hadith und Sunna?
 2. Warum sind Hadithe für das islamische Recht wichtig, wenn es den Koran gibt?
@@ -381,7 +381,7 @@ Die Echtheit eines Hadiths wird **nicht** am Inhalt gemessen, sondern an der **G
 
 ## 6. AQUA-Methode
 
-### 🧠 Verstehen
+### Verstehen
 
 Die **A-QU-A-Methode** ist eine Methode zur Analyse von Textquellen – besonders für Koranstellen.
 
@@ -409,7 +409,7 @@ Die **A-QU-A-Methode** ist eine Methode zur Analyse von Textquellen – besonder
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - A = Autor (Wer? Interesse? Standpunkt?)
 - QU = Quelle (Was? Wann? Wie? Kontext?)
@@ -420,7 +420,7 @@ Die **A-QU-A-Methode** ist eine Methode zur Analyse von Textquellen – besonder
 
 ## 7. Die 5 Säulen des Islams
 
-### 🧠 Verstehen
+### Verstehen
 
 Die 5 Säulen sind das **Herzstück der islamischen Praxis**. Ein gläubiger Muslim erkennt sich durch sie – sie sind keine optionalen Empfehlungen, sondern Pflichten.
 
@@ -500,7 +500,7 @@ Fünfmal täglich, immer nach ritueller Waschung (Wudu), immer Richtung Mekka (K
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - 5 Säulen = Pflichten, kein Muslim kommt daran vorbei
 - Shahada: Monotheismus + Mohammed als Prophet
@@ -511,7 +511,7 @@ Fünfmal täglich, immer nach ritueller Waschung (Wudu), immer Richtung Mekka (K
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Was sind die 5 Säulen? Nenne arabischen Begriff und kurze Erklärung.
 2. Was bedeutet die Shahada genau – welche zwei Bekenntnisse enthält sie?
@@ -522,7 +522,7 @@ Fünfmal täglich, immer nach ritueller Waschung (Wudu), immer Richtung Mekka (K
 
 ## 8. Halal & Haram
 
-### 🧠 Verstehen
+### Verstehen
 
 Im Islam ist Religion nicht auf Gebet und Feste beschränkt – sie durchdringt den gesamten Alltag. Das Konzept von **Halal** (erlaubt) und **Haram** (verboten) regelt, was ein Muslim essen, trinken, tragen und tun darf. Es ist das islamische Gegenstück zu den jüdischen Speisevorschriften (Koscher).
 
@@ -579,7 +579,7 @@ Es drückt die islamische Überzeugung aus, dass Gott der Herr über alle Ereign
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 - Schweinefleisch + Alkohol = immer haram (universell)
 - Schächten = islamische Schlachtmethode, in Schweiz eingeschränkt
 - Halal/Haram gilt für Essen, Kleidung, Wirtschaft, soziales Verhalten
@@ -588,7 +588,7 @@ Es drückt die islamische Überzeugung aus, dass Gott der Herr über alle Ereign
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Was bedeuten Halal, Haram und Makruh? Gib je ein Beispiel.
 2. Warum ist Schächten in der Schweiz ein Problem für Muslime?
@@ -600,7 +600,7 @@ Es drückt die islamische Überzeugung aus, dass Gott der Herr über alle Ereign
 
 ## 9. Frauen im Islam
 
-### 🧠 Verstehen
+### Verstehen
 
 Die Frage nach der Rolle der Frau im Islam lässt sich nicht einfach beantworten, weil sie von **vier verschiedenen Ebenen** abhängt: Was sagt der Koran? Was sagt die islamische Geschichte? Was sagen islamische Länder heute? Und was sagen muslimische Frauen selbst?
 
@@ -694,7 +694,7 @@ Wichtig: Einschränkungen werden oft mit dem Islam begründet – aber oft spiel
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - Dschahiliya: Frauen ohne Rechte; Koran brachte Verbesserungen
 - Spirituelle Gleichheit vor Gott ist im Koran klar
@@ -704,7 +704,7 @@ Wichtig: Einschränkungen werden oft mit dem Islam begründet – aber oft spiel
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Welche Rechte bekamen Frauen durch den Koran, die sie vorher nicht hatten?
 2. Was steht im Koran zum Kopftuch – und was steht eben nicht dort?
@@ -715,7 +715,7 @@ Wichtig: Einschränkungen werden oft mit dem Islam begründet – aber oft spiel
 
 ## 10. Die vier Kalifen & Sunniten/Schiiten
 
-### 🧠 Verstehen
+### Verstehen
 
 Die wichtigste Sache zuerst:
 
@@ -840,7 +840,7 @@ Der 1400 Jahre alte Konflikt ist bis heute hochaktuell und politisch:
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - 4 Kalifen: Abu Bakr → Omar → Othman → Ali (alle ermordet ausser Abu Bakr)
 - Othman: liess Koran standardisieren (653)
@@ -852,7 +852,7 @@ Der 1400 Jahre alte Konflikt ist bis heute hochaktuell und politisch:
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Nenne die vier Kalifen in der richtigen Reihenfolge und erkläre die Bedeutung jedes Einzelnen.
 2. Warum spalteten sich Sunniten und Schiiten – was war der konkrete Auslöser?
@@ -864,7 +864,7 @@ Der 1400 Jahre alte Konflikt ist bis heute hochaktuell und politisch:
 
 ## 11. Heilige Stätten des Islams
 
-### 🧠 Verstehen
+### Verstehen
 
 Wie alle grossen Religionen kennt der Islam heilige Orte. Diese Stätten sind nicht bloss historisch interessant – sie sind Teil der gelebten Praxis, denn die Pilgerfahrt (Hadsch) führt direkt zu ihnen. Für Schiiten gibt es zusätzliche Orte, die im sunnitischen Islam weniger bedeutend sind.
 
@@ -927,7 +927,7 @@ Die wichtigsten Riten beim Hadsch und ihre Orte:
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - Mekka (Ka'aba) = heiligste Stadt, nur für Muslime zugänglich
 - Medina = Grab Mohammeds, zweitheiligste Stadt
@@ -937,7 +937,7 @@ Die wichtigsten Riten beim Hadsch und ihre Orte:
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Warum ist Jerusalem heilig für den Islam, obwohl es im Koran nicht erwähnt wird?
 2. Was befindet sich in Mekka und warum ist es so bedeutend?
@@ -948,7 +948,7 @@ Die wichtigsten Riten beim Hadsch und ihre Orte:
 
 ## 12. Feste & Rituale im Lebenszyklus
 
-### 🧠 Verstehen
+### Verstehen
 
 Islamische Feste folgen dem **Mondkalender** und sind nicht an bestimmte Jahreszeiten gebunden – sie wandern jedes Jahr ~11 Tage vor. Viele Feste sind direkt mit Ereignissen aus Mohammeds Leben oder islamischer Geschichte verknüpft.
 
@@ -988,7 +988,7 @@ Mohammed soll auf dem geflügelten Pferd **Buraq** nachts von Mekka nach Jerusal
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - Islamische Feste folgen Mondkalender (wandern ~11 Tage/Jahr)
 - Id al-fitr = Ende Ramadan | Id al-adha = Opferfest (Abraham/Ismael)
@@ -998,7 +998,7 @@ Mohammed soll auf dem geflügelten Pferd **Buraq** nachts von Mekka nach Jerusal
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Warum sind islamische Feste nicht jahreszeitgebunden?
 2. Erkläre die Bedeutung des Opferfests (Id al-adha) – was wird erinnert?
@@ -1009,7 +1009,7 @@ Mohammed soll auf dem geflügelten Pferd **Buraq** nachts von Mekka nach Jerusal
 
 ## 13. Islam in der Schweiz
 
-### 🧠 Verstehen
+### Verstehen
 
 Muslime sind in der Schweiz keine neue Erscheinung – aber sie sind in den letzten 50 Jahren deutlich sichtbarer geworden.
 
@@ -1042,7 +1042,7 @@ Muslime sind in der Schweiz keine neue Erscheinung – aber sie sind in den letz
 
 ---
 
-### ✅ Kernaussagen
+### Kernaussagen
 
 - 400'000 Muslime (~5%), v.a. aus Bosnien/Kosovo und Türkei
 - Mehrheit: moderat, sunnitisch
@@ -1051,7 +1051,7 @@ Muslime sind in der Schweiz keine neue Erscheinung – aber sie sind in den letz
 
 ---
 
-### ❓ Prüfungsfragen
+### Prüfungsfragen
 
 1. Woher stammt die Mehrheit der Muslime in der Schweiz?
 2. Was wurde 2009 in der Schweiz zu Minaretten entschieden?
@@ -1059,7 +1059,7 @@ Muslime sind in der Schweiz keine neue Erscheinung – aber sie sind in den letz
 
 ---
 
-## 📝 Schnell-Repetition: Die wichtigsten Begriffe
+## Schnell-Repetition: Die wichtigsten Begriffe
 
 | Begriff | Erklärung |
 |---------|-----------|
