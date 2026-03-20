@@ -203,6 +203,14 @@ async function renderInhalt(app, fachId, themaId, index) {
       const div = document.createElement('div');
       div.className = 'md-body';
       div.innerHTML = marked.parse(text);
+      
+      renderMathInElement(div, {
+        delimiters: [
+          {left: "$$", right: "$$", display: true},
+          {left: "$", right: "$", display: false}
+        ]
+      });
+      
       body.appendChild(div);
     } catch (e) {
       body.innerHTML = `<div class="error-box">Datei konnte nicht geladen werden:<br><code>${zf.datei}</code></div>`;
