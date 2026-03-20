@@ -44,7 +44,115 @@
       "icon": "🇫🇷",
       "farbe": "#e67e22",
       "beschreibung": "La langue française",
-      "themen": []
+      "themen": [
+        {
+          "id": "zeiten",
+          "name": "Zeiten",
+          "beschreibung": "Die Zeiten im Französisch",
+          "zusammenfassungen": [
+            {
+              "titel": "Indicatif Présent",
+              "typ": "md",
+              "datei": "Content/franz/01_Indicatif_Present.md"
+            },
+            {
+              "titel": "Indicatif Imparfait",
+              "typ": "md",
+              "datei": "Content/franz/02_Indicatif_Imparfait.md"
+            },
+            {
+              "titel": "Indicatif Passé composé",
+              "typ": "md",
+              "datei": "Content/franz/03_Indicatif_Passe_compose.md"
+            },
+            {
+              "titel": "Indicatif Futur antérieur",
+              "typ": "md",
+              "datei": "Content/franz/04_Indicatif_Futur_anterieur.md"
+            },
+            {
+              "titel": "Indicatif Passé simple",
+              "typ": "md",
+              "datei": "Content/franz/05_Indicatif_Passe_simple.md"
+            },
+            {
+              "titel": "Indicatif Plus-que-parfait",
+              "typ": "md",
+              "datei": "Content/franz/06_Indicatif_Plus_que_parfait.md"
+            },
+            {
+              "titel": "Indicatif Futur simple",
+              "typ": "md",
+              "datei": "Content/franz/07_Indicatif_Futur_simple.md"
+            },
+            {
+              "titel": "Indicatif Passé antérieur",
+              "typ": "md",
+              "datei": "Content/franz/08_Indicatif_Passe_anterieur.md"
+            },
+            {
+              "titel": "Subjonctif Présent",
+              "typ": "md",
+              "datei": "Content/franz/09_Subjonctif_Present.md"
+            },
+            {
+              "titel": "Subjonctif Passé",
+              "typ": "md",
+              "datei": "Content/franz/10_Subjonctif_Passe.md"
+            },
+            {
+              "titel": "Conditionnel Présent",
+              "typ": "md",
+              "datei": "Content/franz/11_Conditionnel_Present.md"
+            },
+            {
+              "titel": "Subjonctif Imparfait",
+              "typ": "md",
+              "datei": "Content/franz/12_Subjonctif_Imparfait.md"
+            },
+            {
+              "titel": "Subjonctif Plus-que-parfait",
+              "typ": "md",
+              "datei": "Content/franz/13_Subjonctif_Plus_que_parfait.md"
+            },
+            {
+              "titel": "Conditionnel Passé",
+              "typ": "md",
+              "datei": "Content/franz/14_Conditionnel_Passe.md"
+            },
+            {
+              "titel": "Conditionnel Passé 2ème forme",
+              "typ": "md",
+              "datei": "Content/franz/15_Conditionnel_Passe_2eme_forme.md"
+            },
+            {
+              "titel": "Impératif Présent",
+              "typ": "md",
+              "datei": "Content/franz/16_Imperatif_Present.md"
+            },
+            {
+              "titel": "Impératif Passé",
+              "typ": "md",
+              "datei": "Content/franz/17_Imperatif_Passe.md"
+            },
+            {
+              "titel": "Infinitif Présent et Passé",
+              "typ": "md",
+              "datei": "Content/franz/18_Infinitif_Present_et_Passe.md"
+            },
+            {
+              "titel": "Participe Présent et Passé",
+              "typ": "md",
+              "datei": "Content/franz/19_Participe_Present_et_Passe.md"
+            },
+            {
+              "titel": "Gérondif Présent et Passé",
+              "typ": "md",
+              "datei": "Content/franz/20_Gerondif_Present_et_Passe.md"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "geschichte",
