@@ -14,7 +14,7 @@
           "beschreibung": "Pontenzen, Polynome, ",
           "zusammenfassungen": [
             {
-              "titel": "Potenezn",
+              "titel": "Potenzen",
               "typ": "md",
               "datei": "Content/math/Potenzen_Wurzeln_Polynome.md"
             }
@@ -184,7 +184,20 @@
       "icon": "⚗️",
       "farbe": "#9b59b6",
       "beschreibung": "Stoffe, Reaktionen und Moleküle",
-      "themen": []
+      "themen": [
+        {
+          "id": "chemischeReaktionen",
+          "name": "Chemische Reaktionen",
+          "beschreibung": "The Art of Chemie",
+          "zusammenfassungen": [
+            {
+              "titel": "Chemische Reaktionen",
+              "typ": "md",
+              "datei": "Content/chemie/Chemische_Reaktionen_Lernheft.md"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "physik",
