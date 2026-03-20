@@ -1,0 +1,143 @@
+{
+  "faecher": [
+    
+    {
+      "id": "mathematik",
+      "name": "Mathematik",
+      "icon": "📐",
+      "farbe": "#3498db",
+      "beschreibung": "Zahlen, Formen und Strukturen",
+      "themen": [
+        {
+          "id": "potenzenWuzelPolynome",
+          "name": "Potenzen",
+          "beschreibung": "Pontenzen, Polynome, ",
+          "zusammenfassungen": [
+            {
+              "titel": "Potenezn",
+              "typ": "md",
+              "datei": "content/math/Potenzen_Wurzeln_Polynome.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deutsch",
+      "name": "Deutsch",
+      "icon": "📖",
+      "farbe": "#e74c3c",
+      "beschreibung": "Sprache, Literatur und Kommunikation",
+      "themen": []
+    },
+    {
+      "id": "englisch",
+      "name": "Englisch",
+      "icon": "🇬🇧",
+      "farbe": "#1abc9c",
+      "beschreibung": "Die Weltsprache Nummer eins",
+      "themen": []
+    },
+    {
+      "id": "franzoesisch",
+      "name": "Französisch",
+      "icon": "🇫🇷",
+      "farbe": "#e67e22",
+      "beschreibung": "La langue française",
+      "themen": []
+    },
+    {
+      "id": "geschichte",
+      "name": "Geschichte",
+      "icon": "🏛️",
+      "farbe": "#8e6b3e",
+      "beschreibung": "Vergangenheit verstehen, Gegenwart begreifen",
+      "themen": []
+    },
+    {
+      "id": "geographie",
+      "name": "Geographie",
+      "icon": "🌍",
+      "farbe": "#27ae60",
+      "beschreibung": "Länder, Klima und Landschaften",
+      "themen": []
+    },
+    {
+      "id": "biologie",
+      "name": "Biologie",
+      "icon": "🧬",
+      "farbe": "#2ecc71",
+      "beschreibung": "Das Leben und seine Erscheinungsformen",
+      "themen": []
+    },
+    {
+      "id": "chemie",
+      "name": "Chemie",
+      "icon": "⚗️",
+      "farbe": "#9b59b6",
+      "beschreibung": "Stoffe, Reaktionen und Moleküle",
+      "themen": []
+    },
+    {
+      "id": "physik",
+      "name": "Physik",
+      "icon": "⚛️",
+      "farbe": "#2980b9",
+      "beschreibung": "Naturgesetze und physikalische Phänomene",
+      "themen": []
+    },
+    {
+      "id": "informatik",
+      "name": "Informatik",
+      "icon": "💻",
+      "farbe": "#34495e",
+      "beschreibung": "Algorithmen, Daten und Systeme",
+      "themen": []
+    },
+    {
+      "id": "sport",
+      "name": "Sport",
+      "icon": "⚽",
+      "farbe": "#e74c3c",
+      "beschreibung": "Bewegung, Gesundheit und Teamgeist",
+      "themen": []
+    },
+    {
+      "id": "musik",
+      "name": "Musik",
+      "icon": "🎵",
+      "farbe": "#f39c12",
+      "beschreibung": "Töne, Rhythmus und Musikgeschichte",
+      "themen": []
+    },
+    {
+      "id": "religionskunde",
+      "name": "Religionskunde",
+      "icon": "🕊️",
+      "farbe": "#7f8c8d",
+      "beschreibung": "Weltreligionen und ethische Fragen",
+      "themen": [
+        {
+          "id": "islam",
+          "name": "Islam",
+          "beschreibung": "Die Religion Islam",
+          "zusammenfassungen": [
+            {
+              "titel": "Islam",
+              "typ": "md",
+              "datei": "content/religion/IslamZusammenfassung.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wirtschaft-recht",
+      "name": "Wirtschaft & Recht",
+      "icon": "⚖️",
+      "farbe": "#c0392b",
+      "beschreibung": "Wirtschaftliche Grundlagen und Rechtskunde",
+      "themen": []
+    }
+  ]
+}
