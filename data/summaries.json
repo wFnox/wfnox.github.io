@@ -297,15 +297,15 @@
       "beschreibung": "Länder, Klima und Landschaften",
       "themen": [
         {
-          "id": "bevölkerung",
+          "id": "bevoelkerung",
           "name": "Bevölkerung",
           "beschreibung": "Bevölkerung Theorie",
           "zusammenfassungen": [
             {
               "titel": "Bevölkerung",
               "typ": "md",
-              "datei": "Content/geographie/Lernheft_Bevoelkerung_und_Ernaehrung.md",
-              "lastModified": "2026-03-20"
+              "datei": "Content/geographie/Bevoelkerung.md",
+              "lastModified": "2026-03-21"
             }
           ]
         }
