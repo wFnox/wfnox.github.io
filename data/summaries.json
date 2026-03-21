@@ -20,6 +20,32 @@
               "lastModified": "2026-03-20"
             }
           ]
+        },
+        {
+          "id": "vektoren",
+          "name": "Vektoren",
+          "beschreibung": "Vektorgeomentrie",
+          "zusammenfassungen": [
+            {
+              "titel": "Vektoren",
+              "typ": "md",
+              "datei": "Content/math/Vektorgeometriew_Lernheft.md",
+              "lastModified": "2026-03-20"
+            }
+          ]
+        },
+        {
+          "id": "funktionen",
+          "name": "Funktionen",
+          "beschreibung": "The Art of Funktionen",
+          "zusammenfassungen": [
+            {
+              "titel": "Funktionen",
+              "typ": "md",
+              "datei": "Content/math/Lernheft_Funktionen.md",
+              "lastModified": "2026-03-20"
+            }
+          ]
         }
       ]
     },
@@ -37,7 +63,87 @@
       "icon": "🇬🇧",
       "farbe": "#1abc9c",
       "beschreibung": "Die Weltsprache Nummer eins",
-      "themen": []
+      "themen": [
+        {
+          "id": "zeiten",
+          "name": "Zeiten",
+          "beschreibung": "Die Zeiten im Englischen",
+          "zusammenfassungen": [
+            {
+              "titel": "Present Simple",
+              "typ": "md",
+              "datei": "Content/english/01_Present_Simple.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Present Continuous",
+              "typ": "md",
+              "datei": "Content/english/02_Present_Continuous.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Present Perfect Simple",
+              "typ": "md",
+              "datei": "Content/english/03_Present_Perfect_Simple.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Present Perfect Continuous",
+              "typ": "md",
+              "datei": "Content/english/04_Present_Perfect_Continuous.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Past Simple",
+              "typ": "md",
+              "datei": "Content/english/05_Past_Simple.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Past Continuous",
+              "typ": "md",
+              "datei": "Content/english/06_Past_Continuous.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Past Perfect Simple",
+              "typ": "md",
+              "datei": "Content/english/07_Past_Perfect_Simple.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Past Perfect Continuous",
+              "typ": "md",
+              "datei": "Content/english/08_Past_Perfect_Continuous.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Future Simple (Will)",
+              "typ": "md",
+              "datei": "Content/english/09_Future_Simple_Will.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Future Going To",
+              "typ": "md",
+              "datei": "Content/english/10_Future_Going_To.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Future Continuous",
+              "typ": "md",
+              "datei": "Content/english/11_Future_Continuous.md",
+              "lastModified": "2026-03-21"
+            },
+            {
+              "titel": "Future Perfect Simple",
+              "typ": "md",
+              "datei": "Content/english/12_Future_Perfect_Simple.md",
+              "lastModified": "2026-03-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "franzoesisch",
@@ -189,7 +295,21 @@
       "icon": "🌍",
       "farbe": "#27ae60",
       "beschreibung": "Länder, Klima und Landschaften",
-      "themen": []
+      "themen": [
+        {
+          "id": "bevölkerung",
+          "name": "Bevölkerung",
+          "beschreibung": "Bevölkerung Theorie",
+          "zusammenfassungen": [
+            {
+              "titel": "Bevölkerung",
+              "typ": "md",
+              "datei": "Content/geogrphie/Lernheft_Bevoelkerung_und_Ernaehrung.md",
+              "lastModified": "2026-03-20"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "biologie",
