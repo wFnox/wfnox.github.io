@@ -368,6 +368,27 @@
               "lastModified": "2026-03-20"
             }
           ]
+        },
+        {
+          "id": "webseiteLogic",
+          "name": "Die logik der Webseiten",
+          "beschreibung": "The art of Html und Css",
+          "zusammenfassungen": [
+            {
+              "titel": "Front end",
+              "typ": "pdf",
+              "datei": "Content/informatik/Frontend.pdf",
+              "lastModified": "2026-03-23"
+            },
+            {
+              "titel": "Back end",
+              "typ": "pdf",
+              "datei": "Content/informatik/Backend.pdf",
+              "lastModified": "2026-03-23"
+            }
+
+          ]
+
         }
       ]
     },
